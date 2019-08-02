@@ -1,0 +1,7 @@
+use_frameworks!
+target 'BKKit_Tests' do
+  pod 'BKKit', :path => '../'
+  
+  pod 'Specta'
+    pod 'Expecta'
+end
