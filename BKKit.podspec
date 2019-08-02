@@ -40,6 +40,7 @@ Pod::Spec.new do |s|
   # s.frameworks = 'UIKit', 'MapKit'
   
   s.dependency 'AFNetworking'
+  s.dependency 'Masonry'
   #s.dependency = 'AFNetworking', 'Masonry', 'MBProgressHUD', 'DZNEmptyDataSet', 'MJRefresh', 'IQKeyboardManager'
   
 end
