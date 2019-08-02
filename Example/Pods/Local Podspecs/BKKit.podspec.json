@@ -1,0 +1,22 @@
+{
+  "name": "BKKit",
+  "version": "0.1.0",
+  "summary": "A short description of BKKit.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/641648019@qq.com/BKKit",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "641648019@qq.com": "641648019@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/641648019@qq.com/BKKit.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "BKKit/Classes/**/*"
+}

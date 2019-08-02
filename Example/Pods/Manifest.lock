@@ -1,0 +1,27 @@
+PODS:
+  - BKKit (0.1.0)
+  - Expecta (1.0.6)
+  - Specta (1.0.7)
+
+DEPENDENCIES:
+  - BKKit (from `../`)
+  - Expecta
+  - Specta
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Expecta
+    - Specta
+
+EXTERNAL SOURCES:
+  BKKit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  BKKit: a93259807da9674ca43ab94f3e16bd5fda07c11b
+  Expecta: 3b6bd90a64b9a1dcb0b70aa0e10a7f8f631667d5
+  Specta: 3e1bd89c3517421982dc4d1c992503e48bd5fe66
+
+PODFILE CHECKSUM: cf995549abb6939667c054fdd7e547cdaf7dc9c4
+
+COCOAPODS: 1.7.1
