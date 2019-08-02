@@ -41,6 +41,11 @@ Pod::Spec.new do |s|
   
   s.dependency 'AFNetworking'
   s.dependency 'Masonry'
-  #s.dependency = 'AFNetworking', 'Masonry', 'MBProgressHUD', 'DZNEmptyDataSet', 'MJRefresh', 'IQKeyboardManager'
+  s.dependency 'MBProgressHUD'
+  s.dependency 'MJRefresh'
+  s.dependency 'IQKeyboardManager'
+  s.dependency 'DZNEmptyDataSet'
+  s.dependency 'WMPageController'
+  
   
 end
