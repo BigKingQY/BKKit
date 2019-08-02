@@ -26,9 +26,9 @@ Pod::Spec.new do |s|
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { '641648019@qq.com' => '641648019@qq.com' }
   s.source           = { :git => 'https://github.com/BigKingQY/BKKit.git', :tag => s.version.to_s }
-  s.social_media_url = 'https://home.cnblogs.com/u/BigKingBlog/'
+  #s.social_media_url = 'https://home.cnblogs.com/u/BigKingBlog'
 
-  s.ios.deployment_target = '8.0'
+  s.ios.deployment_target = '9.0'
 
   s.source_files = 'BKKit/Classes/**/*'
   
