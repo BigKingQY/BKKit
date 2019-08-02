@@ -38,7 +38,8 @@ Pod::Spec.new do |s|
 
   # s.public_header_files = 'Pod/Classes/**/*.h'
   # s.frameworks = 'UIKit', 'MapKit'
-  s.dependency 'AFNetworking', 'Masonry', 'MBProgressHUD', 'DZNEmptyDataSet', 'MJRefresh', 'IQKeyboardManager'
+  s.dependency 'AFNetworking'
   
+  #, 'Masonry', 'MBProgressHUD', 'DZNEmptyDataSet', 'MJRefresh', 'IQKeyboardManager'
   
 end
